@@ -5,7 +5,9 @@ debugpy==1.8.22
 executing==2.2.1
 ipykernel==7.3.0
 ipython==9.17.1
+ipython-genutils==0.2.0
 ipython-pygments-lexers==1.1.1
+ipython-sql==0.5.0
 jedi==0.20.0
 jupyter-client==8.10.0
 jupyter-core==5.9.1
@@ -15,6 +17,7 @@ nest-asyncio2==1.7.3
 packaging==26.3
 parso==0.8.7
 platformdirs==4.12.1
+prettytable==3.11.0
 prompt-toolkit==3.0.53
 psutil==7.2.2
 pure-eval==0.2.4
@@ -25,6 +28,7 @@ python-dotenv==1.2.3
 pyzmq==27.2.0
 six==1.17.0
 sqlalchemy==2.1.1
+sqlparse==0.6.0
 stack-data==0.6.3
 tornado==6.5.10
 traitlets==5.16.1

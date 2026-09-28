@@ -1,3 +1,13 @@
 desktop.ini
 .env
+.env.*
 .venv
+.sun
+*.pem
+*.key
+*.p12
+*.pfx
+*.secret
+credentials.*
+
+/notebook
